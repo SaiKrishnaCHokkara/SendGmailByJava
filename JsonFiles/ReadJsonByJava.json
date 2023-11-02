@@ -1,0 +1,35 @@
+{
+  "students" : [ {"StdId" : "StdId",
+                  "name" : "Stdname",
+                  "gmail": "Gmail",
+                  "percentage":"percentage"
+                 },
+                 {"StdId" : "1",
+                  "name" : "Ch Sai Krishna",
+                  "gmail": "xyz@gmail.com",
+                  "percentage":"71%"
+                 },
+                 {"StdId" : "2",
+                  "name" : "Sai",
+                  "gmail": "Gmail@gmail.com",
+                  "percentage":"66%"
+                 },
+                 {"StdId" : "3",
+                  "name" : "Krishna",
+                  "gmail": "Gmail123@gmail.com",
+                  "percentage":"67%"
+                 },
+                 {"StdId" : "4",
+                  "name" : "Yash",
+                  "gmail": "Yashraj@gmail.com",
+                  "percentage":"54%"
+                 },
+                 {"StdId" : "5",
+                  "name" : "Krishna",
+                  "gmail": "Gmail123@gmail.com",
+                  "percentage":"68%"
+                 }
+                 
+                 
+                ]
+}
